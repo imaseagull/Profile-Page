@@ -21,4 +21,4 @@ This is a simple profile website built with HTML, CSS, and JavaScript.
 - `styles.css` - Styling
 - `script.js` - JavaScript for interactivity
 - `resume.pdf` - Resume file
-- `images/` - Images folder
+- `profile.jpg` - Profile picture file
