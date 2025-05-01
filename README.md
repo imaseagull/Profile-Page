@@ -8,7 +8,7 @@ This is a simple profile website built with HTML, CSS, and JavaScript.
 - Education and Experience
 - Skills and Projects
 - Contact information
-- Separate Contact Us page with form validation
+- Separate Contact Us page with form validation, sends to my personal email
 - Dark Mode toggle
 
 ## Setup
